@@ -45,16 +45,15 @@
 	<p class="divider-text">
         <span class="bg-light">OR</span>
     </p>
+	
+	
 	<form>
-	<div class="form-group input-group">
-		<div class="input-group-prepend">
-		    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
-		 </div>
-        <input name="" class="form-control" placeholder="First name" type="text">
-    </div> <!-- form-group// -->
-    <div class="form-group input-group">
-    	<div class="input-group-prepend">
-		    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+		<div class="mane">
+			<form>
+		  div id="name"
+				<h2 class="name">name </h2>
+				<input class="first name" type="rext" name="first_name"><br>
+				<label></label>
 		 </div>
         <input name="" class="form-control" placeholder="Last name" type="text">
     </div> <!-- form-group// -->
