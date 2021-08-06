@@ -5,8 +5,7 @@
 </head>
 
 <body>
-	<script src="script.js">
-	</script>
+	kp
 </body>
 
 
@@ -40,12 +39,14 @@
 	
 	<form>
 		<div class="mane">
-			<form>
+	<form>
 		  div id="name"
 				<h2 class="name">name </h2>
 				<input class="first name" type="rext" name="first_name"><br>
 				<label></label>
 		 </div>
+			</form>
+		</div>
         <input name="" class="form-control" placeholder="Last name" type="text">
     </div> <!-- form-group// -->
     <div class="form-group input-group">
